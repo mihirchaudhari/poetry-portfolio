@@ -4,9 +4,12 @@ body {
 background-color: #5ec4c0;
 }
 
-#nav ul {
+ul {
   font-family: sans-serif;
   list-style-type: none;
   display: inline;
-  background: #61e8e3;
-}
+  background-color: #61e8e3;
+  margin: 0;
+  padding: 0;
+} 
+
