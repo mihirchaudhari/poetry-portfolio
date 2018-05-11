@@ -1,5 +1,10 @@
 /* BODY */
 
-body{
-background-color: blue;
+body {
+background-color: #5ec4c0;
+}
+
+#nav {
+  list-style: none;
+  display: inline;
 }
