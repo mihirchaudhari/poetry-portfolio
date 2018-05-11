@@ -5,6 +5,7 @@ background-color: #5ec4c0;
 }
 
 #nav ul {
+  font-family: sans-serif;
   list-style-type: none;
   display: inline;
   background-color: #61e8e3;
