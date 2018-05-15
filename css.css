@@ -2,7 +2,18 @@
 
 body {
   background-color: #fffff;
+  font-family: sans-serif;
   margin: 0;
+}
+
+#section {
+  background-color: #5ec4c0;
+  border-radius: 5px;
+}
+
+#paper {
+  background-color: #ffffff;
+  boxshadow: 2px 2px #cccccc;
 }
 
 #nav ul {
