@@ -1,14 +1,14 @@
 /* BODY */
 
 body {
-background-color: #5ec4c0;
+background-color: #fffff;
 }
 
-ul {
+#nav ul {
   font-family: sans-serif;
   list-style-type: none;
   display: inline;
-  background-color: #50e0de;
+  background-color: #5ec4c0;
   color: #ffffff;
   margin: 0;
   padding: 0;
