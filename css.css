@@ -29,6 +29,12 @@ body {
   color: #ffffff;
 }
 
+#nav li:hover {
+  background-color: #4a9b98;
+}
+
 #nav ul li {
   display: inline;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
