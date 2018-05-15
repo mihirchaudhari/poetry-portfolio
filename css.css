@@ -1,7 +1,8 @@
 /* BODY */
 
 body {
-background-color: #fffff;
+  background-color: #fffff;
+  margin: 0;
 }
 
 #nav ul {
