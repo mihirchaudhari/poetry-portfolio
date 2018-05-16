@@ -33,6 +33,10 @@ body {
     bottom: 10px;
 }
 
+#nav .active {
+  background-color: #4a9b98;
+}
+
 #nav ul {
   font-family: sans-serif;
   list-style-type: none;
