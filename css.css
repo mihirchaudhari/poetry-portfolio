@@ -69,6 +69,11 @@ body {
   font-weight: bold;
 }
 
+#nav a:visited {
+  text-decoration: none;
+  color: #ffffff;
+}
+
 /* HEADING */
 
 h1 {
