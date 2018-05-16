@@ -9,7 +9,7 @@ body {
 #section {
   background-color: #5ec4c0;
   border-radius: 5px;
-  margin: 50px;
+  margin: 30px;
   padding: 10px;
   box-shadow: 2px 2px 10px #cccccc;
 }
@@ -20,6 +20,8 @@ body {
   padding: 10px;
   margin: 10px;
 }
+
+/* NAVIGATION */
 
 #nav .moveLeft {
     position: relative;
@@ -47,4 +49,14 @@ body {
 #nav ul li {
   display: inline;
   padding: 10px;
+}
+
+/* HEADING */
+
+h1 {
+  margin: 10px;
+}
+
+h2 {
+  margin: 10px;
 }
