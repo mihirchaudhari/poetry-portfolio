@@ -60,6 +60,15 @@ body {
   padding: 10px;
 }
 
+#nav a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+#nav a:hover {
+  font-weight: bold;
+}
+
 /* HEADING */
 
 h1 {
