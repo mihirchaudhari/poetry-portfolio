@@ -28,6 +28,11 @@ body {
     right: 40px;
 }
 
+#nav .moveUp {
+    position: relative;
+    bottom: 10px;
+}
+
 #nav ul {
   font-family: sans-serif;
   list-style-type: none;
