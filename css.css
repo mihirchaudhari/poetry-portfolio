@@ -20,7 +20,7 @@ body {
   clear: both;
   width: auto;
   background-color: #ffffff;
-  boxshadow: 2px 2px 5px #4a9b98;
+  box-shadow: 2px 2px 5px #4a9b98;
   padding: 10px;
   margin: 5px;
 
@@ -29,13 +29,13 @@ body {
 #paper.left {
   float: left;
   clear: left;
-  width: 49%;
+  width: 45%;
 }
 
 #paper.right {
   float: right;
   clear: right;
-  width: 49%;
+  width: 45%;
 }
 
 /* NAVIGATION */
