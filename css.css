@@ -16,12 +16,11 @@ body {
 }
 
 #paper {
-  box-sizing: border-box;
   border-radius: 5px;
   clear: both;
   width: auto;
   background-color: #ffffff;
-  boxshadow: 2px 2px #cccccc;
+  boxshadow: 2px 2px 5px #4a9b98;
   padding: 10px;
   margin: 5px;
 
