@@ -19,7 +19,7 @@ body {
   box-sizing: border-box;
   border-radius: 5px;
   clear: both;
-  width: 100%;
+  width: auto;
   background-color: #ffffff;
   boxshadow: 2px 2px #cccccc;
   padding: 10px;
