@@ -16,25 +16,27 @@ body {
 }
 
 #paper {
+  box-sizing: border-box;
   border-radius: 5px;
   clear: both;
   width: 100%;
   background-color: #ffffff;
-  box-shadow: 2px 2px 5px #4a9b98;
+  boxshadow: 2px 2px #cccccc;
   padding: 10px;
-  margin: 10px;
+  margin: 5px;
+
 }
 
 #paper.left {
   float: left;
   clear: left;
-  width: 45%;
+  width: 49%;
 }
 
 #paper.right {
   float: right;
   clear: right;
-  width: 45%;
+  width: 49%;
 }
 
 /* NAVIGATION */
