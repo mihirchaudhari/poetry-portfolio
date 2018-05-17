@@ -16,10 +16,22 @@ body {
 
 #paper {
   border-radius: 5px;
+  clear: both;
+  width: 100%;
   background-color: #ffffff;
   boxshadow: 2px 2px #cccccc;
   padding: 10px;
   margin: 10px;
+}
+
+#paper.left {
+  float: left;
+  width: 45%;
+}
+
+#paper.right {
+  float: right;
+  width: 45%;
 }
 
 /* NAVIGATION */
