@@ -19,7 +19,7 @@ body {
   clear: both;
   width: 100%;
   background-color: #ffffff;
-  boxshadow: 2px 2px #cccccc;
+  box-shadow: 2px 2px 5px #4a9b98;
   padding: 10px;
   margin: 10px;
 }
