@@ -15,6 +15,7 @@ body {
 }
 
 #paper {
+  border-radius: 5px;
   background-color: #ffffff;
   boxshadow: 2px 2px #cccccc;
   padding: 10px;
