@@ -110,7 +110,7 @@ p {
 }
 
 a {
-  color: #ffffff;
+  color: #000000;
   text-decoration: underline;
 }
 
@@ -119,6 +119,6 @@ a:hover {
 }
 
 a:visited {
-  color: #ffffff;
+  color: #000000;
   text-decoration: underline;
 }
