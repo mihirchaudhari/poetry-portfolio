@@ -92,6 +92,10 @@ body {
   text-align: center;
 }
 
+.noncenter {
+  text-align: left;
+}
+
 h1 {
   margin: 10px;
 }
