@@ -86,7 +86,7 @@ body {
   color: #ffffff;
 }
 
-/* HEADING */
+/* TEXT */
 
 .center {
   text-align: center;
@@ -107,4 +107,18 @@ h2 {
 p {
   margin: 10px;
   text-align: center;
+}
+
+a {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+a:hover {
+  font-weight: bold;
+}
+
+a:visited {
+  color: #ffffff;
+  text-decoration: underline;
 }
